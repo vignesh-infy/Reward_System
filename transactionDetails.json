@@ -1,0 +1,184 @@
+{
+    "customers": [
+      {
+        "customer_id": "C001",
+        "name": "John Doe",
+        "transactions": [
+          {
+            "transaction_id": "T001",
+            "date": "2023-05-20",
+            "amount": 101
+          },
+          {
+            "transaction_id": "T002",
+            "date": "2023-06-20",
+            "amount": 200
+          },
+          {
+            "transaction_id": "T003",
+            "date": "2023-07-20",
+            "amount": 50
+          },
+          {
+            "transaction_id": "T004",
+            "date": "2023-04-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-03-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-02-20",
+            "amount": 105
+          }
+        ]
+      },
+      {
+        "customer_id": "C002",
+        "name": "Jane Smith",
+        "transactions": [
+          {
+            "transaction_id": "T004",
+            "date": "2023-05-20",
+            "amount": 300
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-06-20",
+            "amount": 120
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-07-20",
+            "amount": 75
+          },
+          {
+            "transaction_id": "T004",
+            "date": "2023-04-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-03-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-02-20",
+            "amount": 105
+          }
+        ]
+      },
+      {
+        "customer_id": "C003",
+        "name": "Aby Johnson",
+        "transactions": [
+          {
+            "transaction_id": "T001",
+            "date": "2023-05-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T002",
+            "date": "2023-06-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T003",
+            "date": "2023-07-20",
+            "amount": 105
+          },
+          {
+            "transaction_id": "T004",
+            "date": "2023-04-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-03-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-02-20",
+            "amount": 105
+          }
+        ]
+      },
+      {
+        "customer_id": "C004",
+        "name": "Abin Abraham",
+        "transactions": [
+          {
+            "transaction_id": "T001",
+            "date": "2023-05-20",
+            "amount": 111
+          },
+          {
+            "transaction_id": "T002",
+            "date": "2023-06-20",
+            "amount": 201
+          },
+          {
+            "transaction_id": "T003",
+            "date": "2023-07-20",
+            "amount": 65
+          },
+          {
+            "transaction_id": "T004",
+            "date": "2023-04-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-03-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-02-20",
+            "amount": 105
+          }
+        ]
+      },
+      {
+        "customer_id": "C005",
+        "name": "Yuva Raj",
+        "transactions": [
+          {
+            "transaction_id": "T001",
+            "date": "2023-05-20",
+            "amount": 108
+          },
+          {
+            "transaction_id": "T002",
+            "date": "2023-06-20",
+            "amount": 176
+          },
+          {
+            "transaction_id": "T003",
+            "date": "2023-07-20",
+            "amount": 98
+          },
+          {
+            "transaction_id": "T004",
+            "date": "2023-04-20",
+            "amount": 60
+          },
+          {
+            "transaction_id": "T005",
+            "date": "2023-03-20",
+            "amount": 210
+          },
+          {
+            "transaction_id": "T006",
+            "date": "2023-02-20",
+            "amount": 105
+          }
+        ]
+      }
+    ]
+  }

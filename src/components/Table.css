@@ -1,0 +1,36 @@
+.table-row {
+    border: 1px solid aquamarine;
+    border-radius: .4rem;
+    width: 100%;
+}
+
+th {
+    border-bottom: 1px solid aquamarine;
+    text-align: left;
+    padding: 1rem .5rem;
+}
+
+td {
+    text-align: left;
+    padding: .5rem;
+}
+
+.empty-row {
+    text-align: center;
+    height: 10rem;
+}
+
+.btn_class{
+    border: none;
+    background-color: transparent;
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.table-head{
+    background-color: aquamarine;
+}
+
+.highlight {
+    background-color: palegreen; /* or any color you prefer */
+  }
